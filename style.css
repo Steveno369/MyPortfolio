@@ -1,0 +1,51 @@
+html{
+    height: 100%;
+    width: 100%;
+
+
+}
+
+
+a:hover{
+
+    font-size: 32px;
+}
+
+#about{
+    background-color: blue;
+}
+
+#projects{
+    background-color: orangered;
+}
+
+#skills{
+    background-color: green;
+}
+
+#contact{
+    background-color: aqua;
+}
+
+ul{
+    list-style: none;
+    text-align: center;
+}
+
+ul li{
+    display: inline;
+
+}
+
+ul li a{
+    text-decoration: none;
+}
+
+body{
+    margin:0;
+}
+
+li{
+    padding-right: 40px;
+
+}
